@@ -8,6 +8,10 @@ import org.springframework.web.bind.annotation.RequestParam;
 /**
  * this is my model class or Controller class
  */
+
+
+//this line is added on second day 
+//only command.
 @Controller
 public class HomeController {
 	
