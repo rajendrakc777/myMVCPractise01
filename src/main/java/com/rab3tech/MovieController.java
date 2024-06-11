@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 
 
 //this is my third command for commit 
-//i can see this command on my github 
+
 @Controller
 public class MovieController {
 
