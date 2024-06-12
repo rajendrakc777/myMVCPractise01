@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 //this line is added on second day 
 //only command.
+//this line is added on third day.
 @Controller
 public class HomeController {
 	
